@@ -9,4 +9,5 @@ random
 string
 
 Мой модуль:
+
 same_size_img
